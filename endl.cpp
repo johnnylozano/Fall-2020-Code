@@ -1,6 +1,17 @@
+/*
+Class: CSE 1321L
+Section: 18
+Term: Fall 2020
+Instructor: Keerthi Manchukonda
+Name: Johnny Lozano
+Lab #: 1A
+*/
+
 // Lab1A
 // Demonstrate the difference of include endl (endline)
 // Prints two lines of output representing a rocket countdown.
+
+
 #include <iostream>
 using namespace std;
 int main()
