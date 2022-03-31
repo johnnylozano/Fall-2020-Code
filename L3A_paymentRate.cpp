@@ -1,3 +1,12 @@
+/*
+Class: CSE 1321L
+Section: 18
+Term: Fall 2020
+Instructor: Keerthi Manchukonda
+Name: Johnny Lozano
+Lab #: 3A
+*/
+
 /* Payment Rate
 User inputs total amount owed and APR, and
 program calculates monthly percentage rate and minimum payment
