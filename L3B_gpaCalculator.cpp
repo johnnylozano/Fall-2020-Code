@@ -1,3 +1,12 @@
+/*
+Class: CSE 1321L
+Section: 18
+Term: Fall 2020
+Instructor: Keerthi Manchukonda
+Name: Johnny Lozano
+Lab #: 3B
+*/
+
 /* GPA Calculator
 User inputs courses and hours, and
 program calculates GPA, total hours, and quality points
