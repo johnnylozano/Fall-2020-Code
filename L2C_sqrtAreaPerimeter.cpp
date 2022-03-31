@@ -4,7 +4,7 @@ Section: 18
 Term: Fall 20
 Instructor: Keerthi Manchukonda
 Name: Johnny Lozano
-Lab#: 18
+Lab#: 2C
 */
 
 /* Square Area/Perimeter Calculator
