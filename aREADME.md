@@ -1,7 +1,7 @@
 # Fall-2020-Code
 Collection of C++ academic projects completed during the Fall '20 semester
--rpgGame.cpp and matrixSum.cpp highlights skills learned during that semester
--Code list and descriptions listed below in chronological order
+- rpgGame.cpp and matrixSum.cpp highlights skills learned during that semester
+- Code list and descriptions listed below in chronological order
 
 Code List:
 
