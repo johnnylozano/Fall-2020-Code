@@ -1,4 +1,11 @@
-
+/*
+Class: CSE 1321L
+Section: 18
+Term: Fall 2020
+Instructor: Keerthi Manchukonda
+Name: Johnny Lozano
+Lab #: 3C
+*/
 
 #include <iostream>
 #include <string>
