@@ -3,7 +3,7 @@ Collection of C++ academic projects completed during the Fall '20 semester
 - rpgGame.cpp and matrixSum.cpp highlights skills learned during that semester
 - Code list and descriptions listed below in chronological order
 
-Code List:
+## Code List:
 
 Lab1
 - endl.cpp             - simple code to familiarize with "endl" command
